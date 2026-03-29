@@ -30,8 +30,8 @@ a s d f g
 9 : steal; CANNOT BE FIRST
 
 
-- : shot miss
-- 
+\- : shot miss
+
 = : shot make
 
 The prior modifiers only apply to 1, 2, and 3 (so 1=, 1-...)
