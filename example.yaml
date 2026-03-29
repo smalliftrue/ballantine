@@ -1,0 +1,86 @@
+game:
+  team1: Purdue Boilermakers
+  team2: Texas Longhorns
+  team1_abb: PUR
+  team2_abb: TEX
+
+roster1:
+  0:
+    name: CJ Cox
+  1:
+    name: Antoine West Jr
+  2:
+    name: Fletcher Loyer
+  3:
+    name: Braden Smith
+  4:
+    name: Trey Kaufman-Renn
+  5:
+    name: Liam Murphy
+  6: 
+    name: Aaron Fine
+  7:
+    name: Sam King
+  9:
+    name: Jack Lusk
+  12:
+    name: Daniel Jacobsen
+  14:
+    name: Jack Benter
+  17:
+    name: Omer Mayer
+  24:
+    name: Gicarri Harris
+  32:
+    name: Jace Rayl
+  34:
+    name: Raleigh Burgess
+  45:
+    name: Oscar Cluff
+
+roster2:
+  3:
+    name: Dailyn Swain
+  8: 
+    name: Matas Vokietaitis
+  12:
+    name: Tramon Mark
+  0:
+    name: Jordan Pope
+  2:
+    name: Chendall Weaver
+  5:
+    name: Camden Heide
+  7:
+    name: Simeon Wilcher
+  10:
+    name: Nic Codie
+  23:
+    name: Lassina Traore
+  4:
+    name: Declan Duru
+  33:
+    name: Anthon McDermott
+  1:
+    name: Cole Bott
+  44:
+    name: Brandon Taylor
+  9:
+    name: John Clark
+  14:
+    name: Lewis Obiorah
+
+
+cl1:
+  q: 0
+  w: 4
+  e: 2
+  r: 3
+  t: 45
+
+cl2:
+  a: 12
+  s: 0
+  d: 5
+  f: 3
+  g: 8
